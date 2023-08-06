@@ -5,7 +5,7 @@ import pprint
 class YClients:
     def __init__(self, shop_id:int = None, company_id:int = None) -> None:
         self.auth_headers = {
-            "authorization": "Bearer gtcwf654agufy25gsadh"
+            "authorization": " "
         }
         self.shop_id = shop_id
         self.company_id = company_id
